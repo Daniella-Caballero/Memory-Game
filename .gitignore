@@ -1,1 +1,24 @@
+﻿# Visual Studio
 .vs/
+.vscode/
+*.suo
+*.user
+*.csproj.user
+
+# Build artifacts
+bin/
+obj/
+
+# Shortcuts and OS files
+*.lnk
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.sln.iml
+*.swp
+*.swo
+*.swx
+
+# Misc
+Changelogs/
