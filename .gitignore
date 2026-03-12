@@ -6,7 +6,6 @@
 *.csproj.user
 
 # Build artifacts
-bin/
 obj/
 
 # Shortcuts and OS files
