@@ -8,16 +8,8 @@
 # Build artifacts
 obj/
 
-# Shortcuts and OS files
-*.lnk
-.DS_Store
-Thumbs.db
-
 # IDE files
 *.sln.iml
 *.swp
 *.swo
 *.swx
-
-# Misc
-Changelogs/
